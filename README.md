@@ -13,7 +13,7 @@ Based on the [Ubuntu Concept image](https://discourse.ubuntu.com/t/ubuntu-24-10-
 | NVMe                      |       ✅      |                                                                                                                                                            |
 | Graphics                  |       ✅      | Requires firmware                                                                                          |
 | Backlight                 |       ✅      |                                                                                                                                                    |
-| USB                       |   Partially  | USB-A and USB-C ports are working. Have not tested USB over Surface Connector              |
+| USB                       |   ✅  | USB-A and USB-C ports are working. Have not tested USB over Surface Connector              |
 | USB-C display output      |       ❓      |                                                                                                                                                            |
 | Wi-Fi                     |       ✅      | Requires kernel patch [patches/0001-wifi-rfkill-hack.patch](patches/0001-wifi-rfkill-hack.patch)        |
 | Bluetooth                 |       ✅      |  [#6](https://github.com/giantdwarf17/linux-surface-laptop-7/issues/6)                                                                                                                                                          |
